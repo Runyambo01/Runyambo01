@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Runyambo01/Runyambo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**K B Patrick/K B Patrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
